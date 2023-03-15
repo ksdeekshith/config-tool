@@ -9,6 +9,7 @@ This tool includes the following features:
 - Validation tag support from [Validator](https://github.com/go-playground/validator)
 - Built-in validator tags for OAuth and JWT structs
 
+
 ## Installation
 
 ### Build from Source
